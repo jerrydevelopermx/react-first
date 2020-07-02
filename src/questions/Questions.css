@@ -1,0 +1,32 @@
+.Container {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  margin-bottom: 70px;
+}
+
+.Text {
+  text-align: left;
+  font-weight: bolder;
+}
+
+.Question {
+  border-bottom: 1px solid #ccc;
+}
+.Answers {
+  margin: auto;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.Option {
+  float: left;
+  padding: 2px;
+  margin: 5px;
+  width: 18%;
+}
+
+.ButtonDiv {
+  padding: 10px;
+  text-align: center;
+}
